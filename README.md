@@ -1,1 +1,1 @@
-# daca-portfolio-KJ
+SELECT 'VS Code ühendus töötab!' AS staatus, NOW() AS aeg;

@@ -1,0 +1,35 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": true
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "db.npovjiutcxyhixromhas.supabase.co",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "UrbanStyle DACA",
+            "database": "postgres",
+            "username": "postgres",
+            "password": ""
+        },
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": true
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "aws-0-eu-central-1.pooler.supabase.com",
+            "driver": "PostgreSQL",
+            "name": "UrbanStyle DACA",
+            "connectString": "postgresql://postgres:LammasDAca26@db.npovjiutcxyhixromhas.supabase.co:5432/postgres",
+            "username": "postgres",
+            "database": "postgres"
+        }
+    ]
+}
