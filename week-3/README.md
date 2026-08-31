@@ -1,1 +1,1 @@
-# Nädal 3: SQL Basics
+# Nädal 3: SQL JOINs
