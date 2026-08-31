@@ -10,3 +10,5 @@ CREATE TABLE team_members (
 
 INSERT INTO team_members (name, role, week)
 VALUES ('Katri Jutt', 'Andmeanalüütik', 0);
+
+SELECT * FROM team_members;
