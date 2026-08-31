@@ -1,6 +1,6 @@
--- Minu esimene UrbanStyle paring
--- Nimi: [Sinu Nimi]
--- Kuupaev: [Tanane kuupaev]
+-- Minu esimene UrbanStyle pairing
+-- Nimi: Katri Jutt
+-- Kuupäev: CURRENT_DATE
 
 -- Loo meeskonnaliikmete tabel
 CREATE TABLE IF NOT EXISTS team_members (
@@ -13,7 +13,8 @@ CREATE TABLE IF NOT EXISTS team_members (
 
 -- Lisa minu andmed
 INSERT INTO team_members (name, role, week)
-VALUES ('[Katri Jutt]', 'Andmeanaluutik', 0);
+VALUES ('Katri Jutt', 'Andmeanaluutik', 0);
 
 -- Vaata tulemust
 SELECT * FROM team_members ORDER BY joined_at;
+
