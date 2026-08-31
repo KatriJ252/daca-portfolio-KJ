@@ -7,3 +7,6 @@ CREATE TABLE team_members (
     week INT DEFAULT 0,
     joined_at TIMESTAMP DEFAULT NOW()
 );
+
+INSERT INTO team_members (name, role, week)
+VALUES ('Katri Jutt', 'Andmeanalüütik', 0);
