@@ -1,0 +1,14 @@
+SELECT 'Tere, UrbanStyle!' AS tervitus, NOW() AS aeg;
+
+CREATE TABLE team_members (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    role VARCHAR(100),
+    week INT DEFAULT 0,
+    joined_at TIMESTAMP DEFAULT NOW()
+);
+
+INSERT INTO team_members (name, role, week)
+VALUES ('Katri Jutt', 'Andmeanalüütik', 0);
+
+SELECT * FROM team_members;
