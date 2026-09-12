@@ -2,7 +2,7 @@
 
 ## Sissejuhatus
 
-Selle nädala teemaks oli SQLi põhitõed ja esimene praktiline töö andmetabelitega. Peamiselt keskendusin sellele, kuidas luua tabel, sisestada andmed ja seejärel neid päringuga välja kuvada.
+Selle nädala teemaks oli SQLi põhitõed. Peamiselt keskendusin tabeli loomisele, andmete sisestamisele ja nende kuvamisele SQL-päringuga.
 
 ## Mis õppisin?
 
@@ -13,7 +13,7 @@ Selle nädala teemaks oli SQLi põhitõed ja esimene praktiline töö andmetabel
 
 ## Praktikavõrrand
 
-Selle nädala ülesanne oli luua tabel, lisada enda andmed ja kontrollida tulemust.
+Selle nädala ülesandeks oli luua tabel, lisada andmed ja kontrollida tulemust.
 
 ### Tabeli loomine
 
@@ -65,7 +65,7 @@ SELECT * FROM team_members ORDER BY joined_at;
 
 ## Tulemus
 
-Nädala lõpuks sain valmis esimese praktilise SQL-i töö, kus ma õppisin tabeli loomist, andmete lisamist ja andmete päringut. See oli esimene oluline samm andmeanalüüsi ja SQL-i valdkonda.
+Nädala lõpuks oli valmis esimene praktiline SQL-i töö, kus ma õppisin tabeli loomist, andmete lisamist ja andmete päringut. See oli esimene oluline samm andmeanalüüsi ja SQL-i valdkonna õppimisel.
 
 ## Järgmised sammud
 
