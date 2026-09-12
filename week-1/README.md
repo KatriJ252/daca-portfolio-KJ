@@ -8,7 +8,7 @@ Selle nädala teemaks oli SQLi põhitõed ja esimene praktiline töö andmetabel
 
 - kuidas luua tabeli `team_members`;
 - kuidas sisestada andmeid SQL-i abil;
-- kuidas teha lihtsat `SELECT` päringut;
+- kuidas teha lihtsat `SELECT` ja `FROM` päringut;
 - kuidas kasutada PostgreSQLi põhilisi SQL-konstruktsioone.
 
 ## Praktikavõrrand
