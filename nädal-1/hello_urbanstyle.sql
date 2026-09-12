@@ -17,3 +17,5 @@ VALUES ('Katri Jutt', 'Andmeanaluutik', 0);
 
 -- Vaata tulemust
 SELECT * FROM team_members ORDER BY joined_at;
+
+
