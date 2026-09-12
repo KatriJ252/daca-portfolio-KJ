@@ -65,10 +65,10 @@ SELECT * FROM team_members ORDER BY joined_at;
 
 ## Tulemus
 
-Nädala lõpuks oli valmis esimene praktiline SQL-i töö, kus ma õppisin tabeli loomist, andmete lisamist ja andmete päringut. See oli esimene oluline samm andmeanalüüsi ja SQL-i valdkonna õppimisel.
+Nädala lõpuks oli valmis esimene praktiline SQL-i töö, kus ma õppisin tabeli loomist, andmete lisamist ja andmete päringut. 
 
 ## Järgmised sammud
 
-- jätkata SQL-i harjoitusi;
-- õppida rohkem filtreerimise, grupeerimise ja join-töötlusega;
+- jätkata SQL-i harjutusi;
+- õppida rohkem filtreerimise, grupeerimise ja join'i kasutust;
 - täiendada portfooliot järgmiste nädalate ülesannetega.
