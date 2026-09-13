@@ -1,3 +1,5 @@
+# Nädal 4: SQL AGGREGATION
+
 📊 ROLL C — Inventuuristatistika
 Analüüsi tootekategooriaid, laoseisu ja müüdud vs laos suhteid Supabase SQL abil.
 
