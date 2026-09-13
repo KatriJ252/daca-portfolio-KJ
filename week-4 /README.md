@@ -8,9 +8,11 @@ Kasutad: GROUP BY, HAVING, JOIN, window functions.
 📁 Sisend
 Tabelid:
 
-products
-sales
-inventory_movements
+-products
+
+-sales
+
+-inventory_movements
 
 📤 Väljund
 ✔ 3 SQL päringut
@@ -24,11 +26,11 @@ inventory_movements
 
 Mida see näitab?
 
-Millised kategooriad on kõige suuremad
+-Millised kategooriad on kõige suuremad
 
-Hinnavahemikud
+-Hinnavahemikud
 
-Kas kategoorias on väga odavaid või väga kalleid tooteid
+-Kas kategoorias on väga odavaid või väga kalleid tooteid
 
 2️⃣ Müüdud vs laos (kategooriate lõikes)
 Ühendame products + sales ja arvutame müügimahud.
