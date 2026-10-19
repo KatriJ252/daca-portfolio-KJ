@@ -1,7 +1,7 @@
 # daca-portfolio-KJ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Katri_Jutt-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/katrijutt)
-[![Email](https://img.shields.io/badge/Email-katri.jutt252%40gmail.com-FFCCE5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoda.data@dagobahmail.example)
+[![Email](https://img.shields.io/badge/Email-katri.jutt252%40gmail.com-FFCCE5?style=for-the-badge&logo=gmail&logoColor=white)](katri.jutt252@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KatriJ252-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reneeko)
 
 
